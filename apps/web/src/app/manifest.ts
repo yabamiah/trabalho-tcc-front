@@ -4,8 +4,7 @@ export default function manifest(): MetadataRoute.Manifest {
 	return {
 		name: "my-better-t-app",
 		short_name: "my-better-t-app",
-		description:
-			"my pwa app",
+		description: "my pwa app",
 		start_url: "/new",
 		display: "standalone",
 		background_color: "#ffffff",
